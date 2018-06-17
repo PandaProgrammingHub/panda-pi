@@ -1,0 +1,3 @@
+export const GET_VIDEO_LISTS = 'GET_VIDEO_LISTS'
+export const UPLOAD_VIDEO = 'UPLOAD_VIDEO'
+export const SELECT_VIDEO = 'SELECT_VIDEO'
